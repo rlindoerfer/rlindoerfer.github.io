@@ -1,1 +1,1 @@
-A website for my favourite character is currently being built here!
+# Detective Monk, a genius with quirks

@@ -14,3 +14,5 @@ Natalie Teeger accompanies him and helps him to deal with his fears.
 
 Adrian Monk said:
 > It's a gift and a curse.
+
+<img src="https://vignette.wikia.nocookie.net/monk/images/2/2d/Adrian_Monk.png/revision/latest?cb=20190501180659"/>

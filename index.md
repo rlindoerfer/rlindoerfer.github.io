@@ -11,3 +11,6 @@ Natalie Teeger accompanies him and helps him to deal with his fears.
 * Helpful person, however he has also some prejudices towards others.
 * He lost his wife several years ago. She got killed by a car bomb.
 * He got 2 brothers. His father left them when they were still kids.
+
+Adrian Monk said:
+> It's a gift and a curse.

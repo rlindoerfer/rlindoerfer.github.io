@@ -5,3 +5,9 @@ it sometimes hard to investigate with him.  He is scared of milk, elevators,
 spiders, nature in general and many more things. Fortunately his assistant
 Natalie Teeger accompanies him and helps him to deal with his fears.
 
+## Some character traits
+1. Very good at solving murder cases.
+2. Very meticulous when cleaning his environment.
+3. Helpful person, however he has also some prejudices towards others.
+4. He lost his wife several years ago. She got killed by a car bomb.
+5. He got 2 brothers. His father left them when they were still kids.
